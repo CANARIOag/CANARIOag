@@ -34,7 +34,7 @@ No me vendas con ecosistemas porque los aprendo rápido: si tu negocio necesita 
 lo aprendo y lo hago andar. Lo que más valoro es el código mantenible y los detalles
 que hacen que el software se sienta vivo.
 
-## 🚀 Proyectos
+## Proyectos
 
 <table>
 <tr>
