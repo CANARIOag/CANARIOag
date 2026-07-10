@@ -13,16 +13,11 @@
 
 ## Un poco sobre mí
 
-Soy Alejandro, vivo en Argentina y hago software desde hace algunos años.
+Soy Alejandro, vivo en Argentina y hago sistemas dedicados desde hace algunos años.
 Trabajo principalmente en **sistemas empresariales**: ERPs que reemplazan procesos
-manuales y que tienen que andar en serio (no demos bonitas).
+manuales.
 
-Me desvela la gente que anota stock en cuadernos y pierde mercadería, así que dedico
-gran parte de mi tiempo a construir herramientas que digitalicen eso y lo dejen sin excusas.
-
-Cuando no estoy codeando, me gusta lo retro — MSN, Windows XP, sonidos de dial-up —
-y por eso mi portafolio está enteramente armado como si fuese una ventana del
-Messenger de 2005. Sin ironías: está hecho en serio.
+Dedico gran parte de mi tiempo a construir herramientas que digitalicen eso y lo dejen sin excusas.
 
 ## Lo que sé hacer
 
