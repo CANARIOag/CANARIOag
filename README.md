@@ -2,8 +2,7 @@
 
 <div align="center">
 
-<!-- 🇦🇷 Bandera argentina flameando al viento (SVG animado) -->
-<img src="assets/flag-arg-wind.svg" width="640" alt="Bandera de Argentina flameando al viento" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Alejandro%20Gabba&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20·%20%F0%9F%87%A6%F0%9F%87%B7&descAlignY=56&descSize=16" width="100%" alt="header" />
 
 # Hola, soy Alejandro 👋
 ### Desarrollador Full Stack · Argentina 🇦🇷
